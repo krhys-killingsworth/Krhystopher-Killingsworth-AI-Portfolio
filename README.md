@@ -65,9 +65,6 @@ React application where two AI personas debate user-submitted topics across voic
 **Kelli**
 Python coding agent with a four-file architecture and workspace-jailed file tools. Pluggable LLM backend supporting both hosted APIs and local models via Ollama.
 
-**AstraVault**
-Offline personal identity vault. React Native and Expo, AES-256-CBC encryption, biometric authentication, no network dependency by design.
-
 ---
 
 ## Repository Structure
