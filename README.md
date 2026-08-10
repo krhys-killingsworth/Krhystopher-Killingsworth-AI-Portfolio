@@ -11,6 +11,8 @@ I am an Applied AI student focused on building agentic systems: multi-agent pipe
 
 I am an AWS AI & ML Scholar on the Agent Developer track and build applied projects under the K.A.I. (Killingsworth Artificial Intelligence) brand. GPA 3.6, Dean's List and Honors List.
 
+I enjoy video games, travel, animals, and learning about AI and new tech in my free time.
+
 ---
 
 ## Technical Skills
