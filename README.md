@@ -62,7 +62,6 @@ Full-stack gemstone identification and appraisal platform. React PWA frontend, F
 
 **AI Debate Arena** - 2nd Place, Beginner Track, HackHCC 2026 (solo entry)
 React application where two AI personas debate user-submitted topics across voiced rounds. Built with Gemini 2.0 Flash and ElevenLabs text-to-speech.
-[Live demo](https://ai-debate-arena-ahhp.onrender.com)
 
 **Kelli**
 Python coding agent with a four-file architecture and workspace-jailed file tools. Pluggable LLM backend supporting both hosted APIs and local models via Ollama.
