@@ -61,7 +61,7 @@ Separate course repository with per-project documentation:
 Full-stack gemstone identification and appraisal platform. React PWA frontend, FastAPI backend, Supabase authentication, Stripe billing, and vision-model inference for stone identification.
 
 **AI Debate Arena** - 2nd Place, Beginner Track, HackHCC 2026 (solo entry)
-React application where two AI personas debate user-submitted topics across voiced rounds. Built with Gemini 2.0 Flash and ElevenLabs text-to-speech.
+React application where two AI personas debate user-submitted topics across voiced rounds. Built with Gemini 2.0 Flash and ElevenLabs text-to-speech. [Live Demo] https://www.youtube.com/shorts/cTNflWerHUc
 
 **Kelli**
 Python coding agent with a four-file architecture and workspace-jailed file tools. Pluggable LLM backend supporting both hosted APIs and local models via Ollama.
